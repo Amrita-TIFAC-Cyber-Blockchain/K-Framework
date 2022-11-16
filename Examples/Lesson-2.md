@@ -1,7 +1,5 @@
 # K-Framework
 
-##
-
 ```
 module LESSON-02-A
 
